@@ -1,0 +1,1 @@
+<center></br></br><img src="cargando.gif"></img></br><h2>Procesando informacion</h2></center>
